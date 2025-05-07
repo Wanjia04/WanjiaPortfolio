@@ -1,0 +1,291 @@
+/* screen - imac-2 */
+
+.imac-2 {
+  align-items: flex-end;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 1912px;
+  width: 1280px;
+}
+
+.imac-2 .overlap-group {
+  height: 115px;
+  position: relative;
+  width: 1280px;
+}
+
+.imac-2 .header {
+  align-items: center;
+  background-color: var(--white);
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: var(--alto);
+  border-left-style: none;
+  border-right-style: none;
+  border-top-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0px 24px;
+  height: 115px;
+  left: 0;
+  padding: 32px;
+  position: absolute;
+  top: 0;
+  width: 1280px;
+}
+
+.imac-2 .navigation-pill {
+  align-items: center;
+  border-radius: 8px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  justify-content: center;
+  padding: 8px;
+  position: relative;
+}
+
+.imac-2 .title {
+  color: var(--eerie-black);
+  font-weight: 400;
+  line-height: 16px;
+  margin-top: -1.00px;
+  position: relative;
+  text-shadow: 0px 4px 4px #000000ed;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.imac-2 .navigation-pill-1 {
+  align-items: center;
+  border-radius: 8px;
+  cursor: pointer;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  justify-content: center;
+  padding: 8px;
+  position: relative;
+}
+
+.imac-2 .title-1 {
+  color: var(--eerie-black);
+  font-weight: 400;
+  line-height: 16px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.imac-2 .title-2 {
+  color: var(--eerie-black);
+  font-weight: 400;
+  line-height: 16px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.imac-2 .header-auth {
+  align-items: center;
+  cursor: pointer;
+  display: flex;
+  gap: 12px;
+  position: relative;
+  width: 178px;
+}
+
+.imac-2 .button {
+  align-items: center;
+  background-color: var(--mercury);
+  border: 1px solid;
+  border-color: var(--sonic-silver);
+  border-radius: 8px;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 8px;
+  justify-content: center;
+  overflow: hidden;
+  padding: 8px;
+  position: relative;
+}
+
+.imac-2 .button-1 {
+  color: var(--eerie-black);
+  font-weight: 400;
+  line-height: 16px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.imac-2 .button-3 {
+  color: var(--eerie-black);
+  cursor: pointer;
+  font-weight: 400;
+  line-height: 16px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.imac-2 .overlap-group1 {
+  height: 1183px;
+  position: relative;
+  width: 1280px;
+}
+
+.imac-2 .input-chip {
+  align-items: center;
+  border-radius: 8px;
+  display: flex;
+  height: 48px;
+  justify-content: center;
+  left: 72px;
+  overflow: hidden;
+  position: absolute;
+  top: 322px;
+  width: 211px;
+}
+
+.imac-2 .state-layer {
+  align-items: center;
+  cursor: pointer;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  justify-content: center;
+  padding: 6px 12px;
+  position: relative;
+}
+
+.imac-2 .label-text {
+  -webkit-text-stroke: 1px var(--black);
+  color: var(--gravel);
+  font-weight: 500;
+  line-height: 20px;
+  margin-left: -1.00px;
+  margin-top: -2.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.imac-2 .input-chip-1 {
+  top: 140px;
+}
+
+.imac-2 .state-layer-1 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  justify-content: center;
+  padding: 6px 12px;
+  position: relative;
+}
+
+.imac-2 .label-text-1 {
+  -webkit-text-stroke: 1px var(--black);
+  color: var(--gravel);
+  font-weight: 500;
+  line-height: 20px;
+  margin-left: -1.00px;
+  margin-top: -2.00px;
+  position: relative;
+  text-align: center;
+  text-shadow: 0px 4px 4px #767676;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.imac-2 .input-chip-2 {
+  top: 231px;
+}
+
+.imac-2 .cover-1 {
+  cursor: pointer;
+  height: 485px;
+  left: 465px;
+  object-fit: cover;
+  position: absolute;
+  top: 32px;
+  width: 728px;
+}
+
+.imac-2 .title-3 {
+  cursor: pointer;
+  height: 91px;
+  left: 465px;
+  letter-spacing: 0.10px;
+  line-height: 20px;
+  position: absolute;
+  top: 516px;
+  width: 302px;
+}
+
+.imac-2 .place {
+  cursor: pointer;
+  height: 91px;
+  left: 465px;
+  letter-spacing: 0.10px;
+  line-height: 20px;
+  position: absolute;
+  top: 1092px;
+  width: 302px;
+}
+
+.imac-2 .artd222_-yang_project2_f24_final-1 {
+  left: 465px;
+  top: 608px;
+}
+
+.imac-2 .overlap-group2 {
+  height: 575px;
+  margin-right: 87px;
+  margin-top: 1px;
+  position: relative;
+  width: 727px;
+}
+
+.imac-2 .die-of-pigeon {
+  cursor: pointer;
+  height: 91px;
+  left: 0;
+  letter-spacing: 0.10px;
+  line-height: 20px;
+  position: absolute;
+  top: 484px;
+  width: 302px;
+}
+
+.imac-2 .artd222_-yang_project2_f24_final-2 {
+  left: 0;
+  top: 0;
+}
+
+.imac-2 .artd222_-yang_project2_f24_final {
+  cursor: pointer;
+  height: 485px;
+  position: absolute;
+  width: 727px;
+}
+
+.imac-2 .input-chip-3 {
+  align-items: center;
+  border-radius: 8px;
+  display: flex;
+  height: 48px;
+  justify-content: center;
+  left: 72px;
+  overflow: hidden;
+  position: absolute;
+  width: 211px;
+}

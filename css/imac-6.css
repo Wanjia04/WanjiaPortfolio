@@ -1,0 +1,233 @@
+/* screen - imac-6 */
+
+.imac-6 {
+  align-items: flex-end;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 1299px;
+  overflow: hidden;
+  width: 1280px;
+}
+
+.imac-6 .overlap-group1 {
+  height: 115px;
+  position: relative;
+  width: 1280px;
+}
+
+.imac-6 .header {
+  align-items: center;
+  background-color: var(--white);
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: var(--alto);
+  border-left-style: none;
+  border-right-style: none;
+  border-top-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0px 24px;
+  height: 115px;
+  left: 0;
+  padding: 32px;
+  position: absolute;
+  top: 0;
+  width: 1280px;
+}
+
+.imac-6 .navigation-pill {
+  align-items: center;
+  border-radius: 8px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  justify-content: center;
+  padding: 8px;
+  position: relative;
+}
+
+.imac-6 .navigation-pill-1 {
+  align-items: center;
+  border-radius: 8px;
+  cursor: pointer;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  justify-content: center;
+  padding: 8px;
+  position: relative;
+}
+
+.imac-6 .title {
+  color: var(--eerie-black);
+  font-weight: 400;
+  line-height: 16px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.imac-6 .title-1 {
+  color: var(--eerie-black);
+  font-weight: 400;
+  line-height: 16px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.imac-6 .title-2 {
+  color: var(--eerie-black);
+  font-weight: 400;
+  line-height: 16px;
+  margin-top: -1.00px;
+  position: relative;
+  text-shadow: 0px 4px 4px #000000ed;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.imac-6 .header-auth {
+  align-items: center;
+  cursor: pointer;
+  display: flex;
+  gap: 12px;
+  position: relative;
+  width: 178px;
+}
+
+.imac-6 .button {
+  align-items: center;
+  background-color: var(--mercury);
+  border: 1px solid;
+  border-color: var(--sonic-silver);
+  border-radius: 8px;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 8px;
+  justify-content: center;
+  overflow: hidden;
+  padding: 8px;
+  position: relative;
+}
+
+.imac-6 .button-1 {
+  color: var(--eerie-black);
+  font-weight: 400;
+  line-height: 16px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.imac-6 .button-3 {
+  color: var(--eerie-black);
+  cursor: pointer;
+  font-weight: 400;
+  line-height: 16px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.imac-6 .flex-row {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  gap: 182px;
+  margin-right: 15.0px;
+  margin-top: 32px;
+  min-width: 1121px;
+}
+
+.imac-6 .input-chip {
+  align-items: center;
+  border-radius: 8px;
+  display: flex;
+  height: 48px;
+  justify-content: center;
+  margin-top: 108px;
+  overflow: hidden;
+  position: relative;
+  width: 211px;
+}
+
+.imac-6 .state-layer {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  justify-content: center;
+  padding: 6px 12px;
+  position: relative;
+}
+
+.imac-6 .label-text {
+  -webkit-text-stroke: 1px var(--black);
+  color: var(--gravel);
+  font-weight: 500;
+  line-height: 20px;
+  margin-left: -1.00px;
+  margin-top: -2.00px;
+  position: relative;
+  text-align: center;
+  text-shadow: 0px 4px 4px #767676;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.imac-6 .overlap-group {
+  height: 575px;
+  position: relative;
+  width: 728px;
+}
+
+.imac-6 .title-3 {
+  height: 91px;
+  left: 0;
+  letter-spacing: 0.10px;
+  line-height: 20px;
+  position: absolute;
+  top: 484px;
+  width: 302px;
+}
+
+.imac-6 .x47cbbe90696b99224fdb99756878424-1 {
+  height: 485px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 728px;
+}
+
+.imac-6 .overlap-group2 {
+  height: 594px;
+  margin-right: 88px;
+  margin-top: 1px;
+  position: relative;
+  width: 727px;
+}
+
+.imac-6 .dizziness {
+  height: 129px;
+  left: 0;
+  letter-spacing: 0.10px;
+  line-height: 20px;
+  position: absolute;
+  top: 465px;
+  width: 429px;
+}
+
+.imac-6 .x3ec2d70b0e580329c5390e9a2a849e0-1 {
+  height: 485px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 727px;
+}

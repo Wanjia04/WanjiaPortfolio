@@ -1,0 +1,154 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+@import url("https://fonts.googleapis.com/css?family=Inter:400,600|Roboto:500,600|Kotta+One:400");
+/* The following line is used to measure usage of this code. You can remove it if you want. */
+@import url("https://px.animaapp.com/67f5d2ed185145c933f14804.67f5d2ee185145c933f14807.hw5fyIQ.hcp.png");
+
+
+
+canvas#canvas3d {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+.logo {
+  display: none !important;
+}
+
+.screen a {
+  display: contents;
+  text-decoration: none;
+}
+
+.container-center-horizontal {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  pointer-events: none;
+  width: 100%;
+}
+
+.container-center-horizontal > * {
+  flex-shrink: 0;
+  pointer-events: auto;
+}
+
+.valign-text-middle {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.navigation-pill-list {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  flex-wrap: wrap;
+  gap: 8px 8px;
+  justify-content: flex-end;
+  position: relative;
+}
+
+.x2_-1-2 {
+  height: 115px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 144px;
+}
+
+.button-2 {
+  align-items: center;
+  background-color: var(--cultured-pearl);
+  border: 1px solid;
+  border-color: var(--heavy-metal);
+  border-radius: 8px;
+  display: inline-flex;
+  gap: 8px;
+  justify-content: center;
+  left: 144px;
+  overflow: hidden;
+  padding: 12px;
+  position: absolute;
+  top: 37px;
+}
+
+.page-product-results {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  gap: 64px;
+  left: 0;
+  padding: 32px;
+  position: absolute;
+  top: 0;
+  width: 1280px;
+}
+
+.xrxr-navigation-bar {
+  align-items: center;
+  background-color: var(--bon-jour);
+  border-radius: 80px;
+  display: inline-flex;
+  left: 464px;
+  padding: 0px 8px;
+  position: absolute;
+  top: 36px;
+}
+
+.nav-item-01 {
+  justify-content: center;
+}
+
+.nav-item-0 {
+  justify-content: flex-end;
+}
+
+.nav-item {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 4px;
+  min-width: 112px;
+  padding: 12px 0px 16px;
+  position: relative;
+}
+
+.label-3 {
+  color: var(--gravel);
+  font-weight: 500;
+  line-height: 16px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.project-3-final-print_1 {
+  height: 602px;
+  left: 190px;
+  object-fit: cover;
+  position: absolute;
+  top: 165px;
+  width: 903px;
+}
+
+.project-3-final-print {
+  height: 600px;
+  margin-top: 33px;
+  object-fit: cover;
+  width: 900px;
+}
+
+.overlap {
+  position: relative;
+  width: 1280px;
+}

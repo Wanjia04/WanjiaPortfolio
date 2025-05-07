@@ -1,0 +1,161 @@
+/* screen - imac-19 */
+
+.imac-19 {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 2818px;
+  width: 1280px;
+}
+
+.imac-19 .overlap-group1 {
+  height: 115px;
+}
+
+.imac-19 .header {
+  align-items: center;
+  background-color: var(--white);
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: var(--alto);
+  border-left-style: none;
+  border-right-style: none;
+  border-top-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0px 24px;
+  height: 115px;
+  left: 0;
+  padding: 32px;
+  position: absolute;
+  top: 0;
+  width: 1280px;
+}
+
+.imac-19 .navigation-pill {
+  align-items: center;
+  border-radius: 8px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  justify-content: center;
+  padding: 8px;
+  position: relative;
+}
+
+.imac-19 .title {
+  color: var(--eerie-black);
+  font-weight: 400;
+  line-height: 16px;
+  margin-top: -1.00px;
+  position: relative;
+  text-shadow: 0px 4px 4px #000000ed;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.imac-19 .navigation-pill-1 {
+  align-items: center;
+  border-radius: 8px;
+  cursor: pointer;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  justify-content: center;
+  padding: 8px;
+  position: relative;
+}
+
+.imac-19 .header-auth {
+  align-items: center;
+  cursor: pointer;
+  display: flex;
+  gap: 12px;
+  position: relative;
+  width: 178px;
+}
+
+.imac-19 .button {
+  align-items: center;
+  background-color: var(--mercury);
+  border: 1px solid;
+  border-color: var(--sonic-silver);
+  border-radius: 8px;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 8px;
+  justify-content: center;
+  overflow: hidden;
+  padding: 8px;
+  position: relative;
+}
+
+.imac-19 .button-1 {
+  color: var(--eerie-black);
+  font-weight: 400;
+  line-height: 16px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.imac-19 .button-3 {
+  color: var(--eerie-black);
+  cursor: pointer;
+  font-weight: 400;
+  line-height: 16px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.imac-19 .overlap-group {
+  height: 767px;
+}
+
+.imac-19 .name {
+  height: 147px;
+  left: 72px;
+  letter-spacing: 0.10px;
+  line-height: 20px;
+  position: absolute;
+  top: 45px;
+  width: 487px;
+}
+
+.imac-19 .label-1 {
+  color: var(--eerie-black-2);
+  cursor: pointer;
+  font-weight: 600;
+  line-height: 16px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.imac-19 .label {
+  color: var(--gravel);
+  font-weight: 500;
+  line-height: 16px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.imac-19 .title-3 {
+  color: var(--eerie-black);
+  font-weight: 400;
+  line-height: 16px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
